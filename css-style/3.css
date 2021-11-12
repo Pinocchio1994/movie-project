@@ -1,0 +1,85 @@
+.body {
+
+}
+.koli {
+    width: 100%;
+    height: 40rem;
+    background-color: lightgrey;
+}
+.title {
+    font-size: 30px;
+    color: cadetblue;
+    margin-left: 1rem;
+    font-weight: bold;
+}
+.img {
+    width: 10rem;
+    height: 15rem;
+}
+.table {
+    /*align-items: center;*/
+    /*display: flex;*/
+    /*justify-content: center;*/
+    /*justify-content: space-between;*/
+}
+#input {
+    width: 500px;
+    height: 50px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    margin-left: 30%;
+    margin-top: 50px;
+}
+.dec {
+    margin-left: 30px;
+    font-size: 20px;
+    color: darkslateblue;
+}
+.btn {
+    margin-left: 30%;
+    margin-top: 10px;
+}
+.card {
+    box-shadow: 0 0 10px rgba(128,128,128,0.42);
+    border-radius: 5px;
+    margin: 50px 20px;
+    padding-bottom: 20px;
+}
+.photo {
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+/*#myInput {*/
+/*    background-image: url('/css/searchicon.png');*/
+/*    background-position: 10px 12px;*/
+/*    background-repeat: no-repeat;*/
+/*    width: 100%;*/
+/*    font-size: 16px;*/
+/*    padding: 12px 20px 12px 40px;*/
+/*    border: 1px solid #ddd;*/
+/*    margin-bottom: 12px;*/
+/*}*/
+
+/*#myUL {*/
+/*    list-style-type: none;*/
+/*    padding: 0;*/
+/*    margin: 0;*/
+/*}*/
+
+/*#myUL li a {*/
+/*    border: 1px solid #ddd;*/
+/*    margin-top: -1px; !* Prevent double borders *!*/
+/*    background-color: #f6f6f6;*/
+/*    padding: 12px;*/
+/*    text-decoration: none;*/
+/*    font-size: 18px;*/
+/*    color: black;*/
+/*    display: block*/
+/*}*/
